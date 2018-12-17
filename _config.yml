@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Evan Gambill - Portfolio 
+tagline:          'Creator and Problem Solver'
+description:      'This is an online portfolio for the work done by Evan Gambill.'
+url:              
 baseurl:          https://evanbg42.github.io/portfolio-site/
 
 author:
   name:           'Evan Gambill'
-  url:            https://twitter.com/mdo
+  url:             
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/EvanBG42/portfolio-site
