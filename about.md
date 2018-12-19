@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Headshot]({{site.baseurl}}/assets/images/headshot.jpg =250px)
+<img src="{{site.baseurl}}/assets/images/headshot.jpg" width="200"> 
 
 I'm Evan Gambill, a student at Mercer University currently studying Technical Communication and Computer Science.
 
