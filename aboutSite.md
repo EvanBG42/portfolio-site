@@ -12,3 +12,4 @@ Thanks to:
  - [Hyde](https://github.com/poole/hyde)
  - [Github](https://github.com) and [Github Pages](https://pages.github.com/)
 
+ And many others I might have forgotten to name.
