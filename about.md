@@ -12,5 +12,5 @@ I'm Evan Gambill, a student at Mercer University currently studying Technical Co
 <br><br>
 I've got a passion for technology and communication in all their aspects. I'm especially a fan of assistive and accessible technologies.
 <br><br>
-Hobbies include programming, building computers, playing and designing video and board games, and writing about all of these and more.
+My hobbies include programming, building computers, playing and designing video and board games, and writing about all of these and more.
 </div>
