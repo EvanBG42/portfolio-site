@@ -8,6 +8,8 @@ permalink:        pretty
 title:            Evan Gambill - Portfolio 
 tagline:          'Creator and Problem Solver'
 # description:      'This is an online portfolio for the work done by Evan Gambill.'
+
+description: ''
 url:              
 baseurl:          https://evanbg42.github.io/portfolio-site/
 
