@@ -5,7 +5,7 @@ title: Voice-Activated Technology Accessibility Research
 
 Working with two other group members and the staff of the Accessible Information and Communication Technologies (AICT) at Gallaudet University, our team performed preliminary research into methods of making voice-activated technologies (such as Amazon's Alexa) more accessible for Deaf and Hard-of-Hearing users.
 
-![Image of Poster]({{site.baseurl}}assets/images/posterSnip.png)
+![Image of Poster]({{site.baseurl}}assets/images/posterSnip.PNG)
 [Full Poster]({{site.baseurl}}assets/Gambill, Rodolitz, Willis Final Poster.pdf)
 
 
