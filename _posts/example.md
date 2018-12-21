@@ -1,5 +1,4 @@
 ---
-layout:
 title: Example content
 ---
 
