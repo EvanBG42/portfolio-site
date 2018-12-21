@@ -2,7 +2,7 @@
 highlighter:      rouge 
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
 
 # Setup
 title:            Evan Gambill - Portfolio 
@@ -11,7 +11,7 @@ tagline:          'Creator and Problem Solver'
 
 description: ''
             
-#url: https://evanbg42.github.io/portfolio-site/
+url: https://evanbg42.github.io
 baseurl: /portfolio-site
 
 author:
