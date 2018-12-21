@@ -10,13 +10,11 @@ tagline:          'Creator and Problem Solver'
 # description:      'This is an online portfolio for the work done by Evan Gambill.'
 
 description: ''
-             
-#url:          https://evanbg42.github.io/
-baseurl: https://evanbg42.github.io/portfolio-site/
+            
+url: https://evanbg42.github.io/portfolio-site/
 
 author:
   name:           'Evan Gambill'
-  url:             
 
 paginate:         5
 
