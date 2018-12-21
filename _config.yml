@@ -12,7 +12,7 @@ tagline:          'Creator and Problem Solver'
 description: ''
             
 url: https://evanbg42.github.io
-baseurl: "/portfolio-site/"
+baseurl: "/portfolio-site"
 
 author:
   name:           'Evan Gambill'
