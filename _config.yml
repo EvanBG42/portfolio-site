@@ -2,7 +2,7 @@
 highlighter:      rouge 
 
 # Permalinks
-permalink:       {{site.baseurl}}/:title/ 
+permalink:       /:title/ 
 
 # Setup
 title:            Evan Gambill - Portfolio 
