@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  null
+title: Resumé Download
 ---
-
-# Resumé Download
 
 My resumé can be downloaded as either 
 
