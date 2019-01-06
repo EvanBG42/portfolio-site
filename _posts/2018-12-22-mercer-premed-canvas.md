@@ -3,10 +3,12 @@ layout: post
 title: Analysis of Mercer University's Pre-Medical Canvas Course 
 ---
 
-As a project for my Instructional Design class at Mercer University, our group was tasked with analyzing and recommending changes to the school's pre-medical track that was recently changed to an online course on Canvas.
+As a project for my Instructional Design class at Mercer University, our group was tasked with analyzing and recommending changes to the school's pre-medical track that was recently changed to an online course on Canvas, a learning management system developed by Instructure and recently adopted for all of Mercer's classes.
 
 ![Image of Slideshow]({{site.baseurl}}/assets/images/canvasPresentationSnip.PNG)
-[Full Slideshow]({{site.baseurl}}/assets/Pre-MedCanvasCourse.pptx)
+[Full Slideshow (PowerPoint file)]({{site.baseurl}}/assets/Pre-MedCanvasCourse.pptx)
+[Full Slideshow (PDF)]({{site.baseurl}}/assets/Pre-MedCanvasCourse.pdf)
+
 
 Our group was presented with the project after roughly a month and a half of instruction about theory and practice of adult instruction. 
 
