@@ -15,3 +15,5 @@ My involvement in the project was focused on the following areas:
 - Voice Over / Audio Recording
 - Developer (Citations Module)
 - Tester & Technical Support
+
+Bye the end of this project, I gained significant experience in using Captivate, planning and developing e-learning modules, and working in a team of my peers.
