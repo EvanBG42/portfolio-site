@@ -8,4 +8,5 @@ One project for my multimedia class during my Fall 2019 semester was to write an
 <audio src="/portfolio-site/assets/EvanAudioAd.mp3" type="audio/mp3" controls>
 	Your browser does not support embedded audio.
 </audio>
+[Download Audio](/portfolio-site/assets/EvanAudioAd.mp3)
 
